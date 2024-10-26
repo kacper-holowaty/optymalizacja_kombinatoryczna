@@ -1,0 +1,8 @@
+a, b
+b, c
+c, d
+c, e
+d, e
+d, f
+e, f
+d, g

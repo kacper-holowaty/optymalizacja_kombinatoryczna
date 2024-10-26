@@ -1,0 +1,15 @@
+UWAGA! W programie możliwe jest, aby graf posiadał kilka takich samych krawędzi (Multigraf) z wyłączeniem pętli. 
+
+Plik main.py zawiera rozwiązanie zadania, gdzie graf jest przechowywany w macierzy sąsiedztwa.
+
+Uruchomienie:
+python main.py -n  -> aby utworzyć graf nieskierowany
+python main.py -s  -> aby utworzyć graf skierowany
+
+
+Natomiast plik main_builtin.py zawiera rozwiązanie zadania, gdzie graf jest przechowywany we wbudowanej strukturze grafu z biblioteki networkX.
+
+Uruchomienie:
+python main_builtin.py -n  -> aby utworzyć graf nieskierowany
+python main_builtin.py -s  -> aby utworzyć graf skierowany
+
