@@ -1,0 +1,1 @@
+# Zaimplementuj algorytm Christofidesa - zwróć uwagę na weryfikację warunku trójkąta na początku działania algorytmu.
